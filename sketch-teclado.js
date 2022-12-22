@@ -1,5 +1,6 @@
 //Estas son las imagenes que tenemos en el proyecto
 
+/** esto son las variables */
 let eevee = "";
 let bgpikachu = "";
 let bgcharizard = "";
