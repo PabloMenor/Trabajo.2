@@ -25,14 +25,11 @@ function setup(){
     eevee2= loadImage("https://i.ibb.co/bF5vLGB/1970401-b70f6.gif");
     pikachu = loadImage("https://i.ibb.co/FBz4xq4/6689dc331be27e66349ce9a4d15ddff3.gif");
     charizard = loadImage("https://i.ibb.co/6WvQH2d/charizard-pokemon-charizard.gif");
-    minipikachu = loadImage("https://i.ibb.co/zn4shbB/4d2464f56ecb065dbdbb0049a1b5bf484bee9265-hq.gif");
     gyarados = loadImage("https://i.ibb.co/NyPYxsv/tumblr-4b0c4b9598fcfaf63db0cd3-unscreen.gif");
     bggyarados = loadImage("https://i.ibb.co/ccBfMqW/previews-4.jpg");
     bg = loadImage("https://i.ibb.co/dbyCWNQ/CONTROLES.png");
     bgeevee = loadImage("https://i.ibb.co/kM0kkM6/20fe1e143ea1bb175a2035b1d180e398.jpg")
-    minicharizard = loadImage("https://i.ibb.co/vJZngSk/69ab01b062af6d4195423aa866efcc27.png");
-    minieevee = loadImage("https://i.ibb.co/vJZngSk/69ab01b062af6d4195423aa866efcc27.png");
-    minigyarados = loadImage("");
+   
 
 }
 
